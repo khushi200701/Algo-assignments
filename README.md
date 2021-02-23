@@ -1,2 +1,2 @@
 # Algo-assignments-
-3rd sem
+Algorithms, Sem-3
